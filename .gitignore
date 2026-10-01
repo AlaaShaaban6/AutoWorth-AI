@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.DS_Store
+Thumbs.db
+.env
+*.env
+# Do not upload raw Kaggle data unless required
+dataset/
+*.csv
+*.zip
